@@ -3,6 +3,9 @@
 # Chapter2 
 ##2.1 Text
 ##2.2 Number
+##2.3 Variable
+##2.4 Summery
+##2.5 Practice
 =======
 ##1.1 The position of PHP in the world of Web
 ##1.2 The great thing in PHP
